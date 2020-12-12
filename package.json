@@ -1,0 +1,22 @@
+{
+  "name": "twatter",
+  "version": "1.0.0",
+  "description": "Generates tweets from desired twitter handle using markov chain model",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/type9/twatter-nodepackage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/type9/twatter-nodepackage/issues"
+  },
+  "homepage": "https://github.com/type9/twatter-nodepackage#readme",
+  "dependencies": {
+    "python-shell": "^2.0.3"
+  }
+}
