@@ -1,6 +1,6 @@
 {
   "name": "twatter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generates tweets from desired twitter handle using markov chain model",
   "main": "app.js",
   "scripts": {
